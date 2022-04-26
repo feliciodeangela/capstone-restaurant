@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/capstone-restaurant/static/css/main.4dfbf6a8.css",
+    "main.js": "/capstone-restaurant/static/js/main.c9d8516e.js",
+    "static/media/seaFood.jpg": "/capstone-restaurant/static/media/seaFood.0cbcc3da8f31bd082cda.jpg",
+    "static/media/complete.jpg": "/capstone-restaurant/static/media/complete.7a42951064e6046a7aba.jpg",
+    "static/media/burguer.jpg": "/capstone-restaurant/static/media/burguer.d51df3ab6e089dc666a1.jpg",
+    "static/media/shrimps.jpg": "/capstone-restaurant/static/media/shrimps.0a4a7f38203b0e3d0f3a.jpg",
+    "static/media/popcornChicken.jpg": "/capstone-restaurant/static/media/popcornChicken.84d23373e8a67b2f8a31.jpg",
+    "static/media/hotDog.jpg": "/capstone-restaurant/static/media/hotDog.7a1b6dabce80a929331c.jpg",
+    "static/media/pizza.jpg": "/capstone-restaurant/static/media/pizza.c87af3532b0b65b7d6a3.jpg",
+    "index.html": "/capstone-restaurant/index.html",
+    "main.4dfbf6a8.css.map": "/capstone-restaurant/static/css/main.4dfbf6a8.css.map",
+    "main.c9d8516e.js.map": "/capstone-restaurant/static/js/main.c9d8516e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dfbf6a8.css",
+    "static/js/main.c9d8516e.js"
+  ]
+}
